@@ -1,0 +1,19 @@
+.select{
+ @apply bg-green-600 text-white
+}
+
+.wrong{
+ @apply bg-red-600 text-white
+}
+
+table {
+ border-collapse: collapse;
+ width: 100%;
+}
+
+td, th {
+ border: 1px solid #dddddd;
+ text-align: center;
+ padding: 8px;
+}
+
